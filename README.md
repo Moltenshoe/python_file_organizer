@@ -84,7 +84,7 @@ Downloads/
 
 ## Author
 
-Made with ❤️ by 3shu Kottapalli (Python Bootcamp Day 1 Project).
+Made with ❤️ by Trishanth Kottapalli (Python Bootcamp Day 1 Project).
 
 ---
 
